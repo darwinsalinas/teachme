@@ -1,0 +1,8 @@
+
+                                                                  
+  [Symfony\Component\Console\Exception\CommandNotFoundException]  
+  Command "app" is not defined.                                   
+  Did you mean this?                                              
+      app:name                                                    
+                                                                  
+
